@@ -1,0 +1,1 @@
+This docker file pulls the ubuntu base image and install basic utilities , node js and npm in it and make this image ready for any node js based app image creation
